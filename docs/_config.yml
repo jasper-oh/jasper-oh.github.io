@@ -14,7 +14,7 @@ locale: "en-US"
 title: "Jasper's Coding Blog"
 title_separator: "-"
 subtitle: "CodingStory"
-name: &name "Jasper Oh" # &name is a YAML anchor which can be *referenced later
+name: "Jasper Oh" # &name is a YAML anchor which can be *referenced later
 description: &description "만들어 가는 재미를 아는 사람의 블로그 입니다."
 url: "https://jasper-oh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
