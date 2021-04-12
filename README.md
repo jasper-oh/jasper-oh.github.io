@@ -1,8 +1,6 @@
 # 🧑‍💻 Jasper's Website
 
----
-
-### 👉 Yeong Jun Oh (Jasper Oh)
+### 🙋‍♂️ Yeong Jun Oh (Jasper Oh)
 
 > 겸손하지 않고서는 완전해질 수 없다. - Tolstoy
 
@@ -12,8 +10,10 @@
 
 ---
 
-### 🙋‍♂️ Purpose
+### 👉 Purpose
 
-👉 [Jasper Blog](https://jasper-infinity.tistory.com)
+🏠 [Jasper Blog](https://jasper-infinity.tistory.com)
 
-위의 블로그와는 다르게, 여기는 본인이 하고 있는 프로젝트를 설명하며 동시에 프로젝트와 관련한 reference 를 정리하는 공간으로 사용하려고 합니다.
+위의 블로그와는 다르게, 이 곳은 본인이 하고 있는 프로젝트를 설명하며 동시에 프로젝트와 관련한 reference 를 정리하는 공간으로 사용하려고 합니다.
+
+---
